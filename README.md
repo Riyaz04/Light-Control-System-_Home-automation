@@ -1,4 +1,4 @@
-# Light-Conrol-System-_Home-automation
+# Light-Control-System-_Home-automation
 
 Smart electricity controller using face detection An idea of saving energy which can help in reducing the effect of Global Warming:-
 
